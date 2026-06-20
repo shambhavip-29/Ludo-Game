@@ -72,7 +72,4 @@ Ludo-Game/
 Computer Science & Engineering Student
 Savitribai Phule Pune University (SPPU)
 
-![Project Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 195244.png")
-![Project Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 195256.png")
-![Project Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 195301.png")
-![Project Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 195330.png")
+
